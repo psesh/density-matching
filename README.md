@@ -10,6 +10,5 @@ Description of airfoil problem<br \>
 **Objective**: Minimize distance to a target<br \>
 
 <br\>
-MATLAB and python utilities for a NACA0012 optimization under uncertainty problem. <br \>
-WARNING: Work in progress. 
- 
+MATLAB and python utilities for a NACA0012 optimization under uncertainty problem. Note: You will need numpy, scipy and SU2. 
+
