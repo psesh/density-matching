@@ -1,5 +1,5 @@
 # Density-Matching
-Codes for replicating airfoil results in:
+Codes for replicating airfoil results in: <br \>
 *"A density-matching approach for optimization under uncertainty"* <br \>
 Pranay Seshadri, Paul Constantine, Gianluca Iaccarino, Geoffrey Parks
 
