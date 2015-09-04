@@ -1,4 +1,4 @@
-#!/home/ps583/newss02/ss02/bin/python
+#!/usr/bin/python
 import os
 import string
 import numpy as np
