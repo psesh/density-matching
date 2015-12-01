@@ -12,7 +12,3 @@ Description of airfoil problem<br \>
 
 <br\>
 Note: You will need numpy, scipy and SU2. 
-
-<br\>
-MATLAB and python utilities for a NACA0012 optimization under uncertainty problem. 
-
